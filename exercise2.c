@@ -1,4 +1,4 @@
-//kullanıcıdan aldığımız iki sayıyı toplayıp ekrana yazdırma
+//kullanÄ±cÄ±dan aldÄ±ÄŸÄ±mÄ±z iki sayÄ±yÄ± toplayÄ±p ekrana yazdÄ±rma
 // Add the two numbers we receive from the user and print the result to the screen.
 #include <stdio.h>
 
@@ -15,3 +15,4 @@ int main(){
 	
 	return 0 ;
 }
+
