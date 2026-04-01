@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main(){
+
+
+for(int i=0; i<10; i++){
+   for (int z = 0; z <= i; z++)
+   {
+   printf("%d",z);
+   
+   }
+   printf("\n");
+}
+return 0;
+
+}
